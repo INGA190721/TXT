@@ -1,0 +1,6 @@
+
+     1. Name : Inga
+     2. Surname : Vasylenko
+     3. Age : 34
+     4. Number of pets : 1
+     5. Futer salary : 700
