@@ -1,0 +1,7 @@
+
+     
+    1.Favorite movi: Home
+    2.Favorite series: Friends
+    3.Favorite food: salad
+    4.Favorite season: summer
+    5.The country I want to visit: Italy

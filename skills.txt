@@ -1,0 +1,19 @@
+
+
+
+     1.Basic Testing Theory: What is testing, bug reports, documentation, types, methods, testing directions, SDLC, STLC.
+     2.HTTP: methods, codes, HTTP request and response structures.
+     3.JSON, XML: structure.
+     4.API, Postman: API testing via Postman, JS, API autotests.
+     5.Charles, Fiddler: Sniffing http web traffic, mobile traffic via Charles and Fiddler on iOS and Android.
+     6.SQL Basics: Create, Delete, Drop, Insert Into, Select, From, Where, Join.
+     7.Postgres: installation, configuration and use.
+     8.Dev Tools: Google Chrome, FireFox.
+     9.VPN: How it works, why you need it, how to use it, tool options.
+     10.Mobile testing: Feature iOS, Android, guidelines, building iOS applications on Xcode, building Android applications on Android Studio,  ADB.
+     11.Redis non-relational database: installation, configuration and use.
+     12.Jmeter: Stress testing.
+     13.Scrum: Development methodology.
+     14.Python: learning the basics. Creating a client-server application.
+
+
